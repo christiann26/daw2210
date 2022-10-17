@@ -1,5 +1,5 @@
-- name: Home
+- name: Inicio
   link: /
 
-- name: Biodiversity
-  link: /biodiversity
+- name: Juegos
+  link: /Juegos
