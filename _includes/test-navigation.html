@@ -1,0 +1,9 @@
+<nav>
+    <a href="/test.html" {% if page.url=="/test.html" %}style="color: red;" {% endif %}>Test</a>
+    <a href="/about.html" {% if page.url=="/about.html" %}style="color: red;" {% endif %}>About</a>
+ </nav>
+ - name: Test
+  link: /test.html
+- name: About
+  link: /about.html
+ 
